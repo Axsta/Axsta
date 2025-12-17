@@ -13,11 +13,6 @@ My work focuses on **business problem framing, data analysis, and executive-read
 - Design and delivery of executive dashboards
 - KPI definition, tracking, and performance analysis
 - Data profiling and validation to ensure trustworthy insights
-- End-to-end ownership of analytics projects
-
----
-
-##  Analytics & Project Management
 - Lead projects from **requirements to delivery**
 - Translate stakeholder questions into measurable metrics
 - Manage timelines, scope, and reporting expectations
@@ -44,8 +39,8 @@ My work focuses on **business problem framing, data analysis, and executive-read
 ---
 
 ##  Let’s Connect
--  LinkedIn: *(add your LinkedIn link)*
--  Email: *(optional)*
+-  LinkedIn: *www.linkedin.com/in/bhat-akshata/*
+-  Email: *akshata.bhat@protonmail.com*
 
 ---
 
