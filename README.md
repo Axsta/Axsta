@@ -26,10 +26,12 @@ My work focuses on **business problem framing, data analysis, and executive-read
 ---
 
 ##  Tech Stack
-- **Languages:** Python, SQL  
-- **Analytics & BI:** Power BI (DAX, Data Modeling), Excel  
-- **Core Skills:** EDA, Business Metrics, Data Validation, Insight Communication  
-- **Tools:** Git, Jupyter Notebook  
+• Languages & Tools: Python, MySQL (Advanced Window Functions), Alteryx (Advanced)
+• Visualization & BI: Tableau (Advanced), Power BI (DAX, Data Modeling) , Microsoft Excel, Looker Studio (Google Data Studio)
+• Automation & ETL: UIPath Studio, StudioX, RPA, Xceptor, Excel (Function, Macros & VBA)
+• Software Development: Visual Basic, HTML, CSS
+• Platforms & Collaboration: JIRA, Confluence, GitHub, G Suite, Microsoft 365, Cross-functional Team Collaboration
+• Others: Gen AI, Machine Learning,  NLP Text Analysis, Web scraping
 
 ---
 
