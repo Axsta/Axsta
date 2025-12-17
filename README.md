@@ -31,7 +31,7 @@ My work focuses on **business problem framing, data analysis, and executive-read
 - Automation & ETL: UIPath Studio, StudioX, RPA, Xceptor, Excel (Function, Macros & VBA)
 - Software Development: Visual Basic, HTML, CSS
 - Platforms & Collaboration: JIRA, Confluence, GitHub, G Suite, Microsoft 365, Cross-functional Team Collaboration
-- Others: Gen AI, Machine Learning,  NLP Text Analysis, Web scraping
+- Others: Gen AI, Machine Learning,  NLP Text Analysis, Business Analysis, Project Management, Stakeholder Management
 
 ---
 
